@@ -1,0 +1,26 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lodash.min.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "lodash": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cadenichols/slider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cadenichols/slider/issues"
+  },
+  "homepage": "https://github.com/cadenichols/slider"
+}
